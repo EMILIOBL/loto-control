@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LotoControl</string>
+    
+    <!-- Common -->
+    <string name="back">Volver</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    
+    <!-- Home Screen -->
+    <string name="draw_date">Sorteo del %1$s</string>
+    <string name="ticket_price">Precio del décimo: %1$.2f€</string>
+    <string name="view_summary">Ver resumen</string>
+    
+    <!-- Client Screen -->
+    <string name="returned_tickets">Décimos devueltos</string>
+    <string name="amount_paid">Cantidad pagada (€)</string>
+    <string name="save_and_continue">Guardar y continuar</string>
+    <string name="next_client">Siguiente cliente</string>
+    <string name="tickets_delivered">Décimos entregados</string>
+    <string name="previous_debt">Deuda anterior</string>
+    <string name="total_amount">Importe total</string>
+    <string name="current_balance">Balance actual</string>
+    
+    <!-- Summary Screen -->
+    <string name="balance_summary">Resumen de Saldos</string>
+    <string name="total_pending">Total pendiente de cobro</string>
+    <string name="clients_with_debt">Clientes con deuda</string>
+    <string name="clients_without_debt">Clientes al día</string>
+    
+    <!-- Import -->
+    <string name="import_data">Importar datos</string>
+    <string name="import_error">Error de importación</string>
+    <string name="import_success">Datos importados correctamente</string>
+    <string name="invalid_format">El formato del archivo no es válido. Por favor, use la plantilla correcta.</string>
+    <string name="save_error">Error al guardar los datos: %1$s</string>
+</resources>
